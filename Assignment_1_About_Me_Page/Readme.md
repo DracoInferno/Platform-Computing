@@ -23,6 +23,10 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
+<img src="About me1.png" alt="About1">
+
+<img src="About me2.png" alt="About2">
+
 <img src="https://imgur.com/gallery/4rAXx5x" title='Example Video Walkthrough' width='' alt='Example Video Walkthrough' />
 
 
