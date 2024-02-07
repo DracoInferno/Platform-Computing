@@ -1,0 +1,73 @@
+body
+{
+    background-color: lightblue;
+    margin: 0;
+}
+
+.header
+{
+    background-color: skyblue;
+    margin: 0;
+    padding: 0;
+    border-top: solid;
+    border-bottom: solid;
+    border-color: black;
+    border-width: 5px; 
+    font-style: italic;
+}
+
+h1
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: -webkit-xxx-large;
+    margin: 0;
+
+}
+
+h2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+
+}
+
+p
+{
+    font-size: large;
+    text-indent: 50px;
+}
+
+.Company
+{
+    height: 150px;
+}
+
+.Game
+{
+    height: 200px;
+}
+
+.Movie
+{
+    height: 200px;
+}
+
+.Anime1
+{
+    height: 200px;
+}
+
+.Anime2
+{
+    height: 200px;
+}
+
+.Anime3
+{
+    height: 200px;
+}
+
