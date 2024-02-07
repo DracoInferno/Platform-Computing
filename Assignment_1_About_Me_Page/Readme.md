@@ -13,11 +13,11 @@ The following **required** features are completed:
 - [X] Includes at least 3 paragraphs. (3pts)
 - [X] Includes at least one image. (2pts)
 - [X] Includes a .css file to style with at least 4 ways to format the elements in the html. (3pts)
-- [ ] Includes a link that directs to your Github account (can be main account or specifically to your Platform_Computing Repo). (3pts)
+- [X] Includes a link that directs to your Github account (can be main account or specifically to your Platform_Computing Repo). (3pts)
 
 The following **bonus** features are implemented:
 
-- [ ] Applies different font(s). (0.5 pt)
+- [X] Applies different font(s). (0.5 pt)
 - [ ] Applies border and margins. (0.5 pt)
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
