@@ -18,8 +18,9 @@ The following **required** features are completed:
 The following **bonus** features are implemented:
 
 - [X] Applies different font(s). (0.5 pt)
-- [ ] Applies border and margins. (0.5 pt)
-- [ ] DESCRIBE ANY OTHER FEATURES HERE.
+- [X] Applies border and margins. (0.5 pt)
+- [X] Change the Background color and Header Color.
+- [X] Chnage the images sizes.
 
 ## Screenshot and/or Video Walkthrough
 
