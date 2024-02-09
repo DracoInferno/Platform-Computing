@@ -31,6 +31,5 @@ The following **bonus** features are implemented:
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
 <ul>
-  <li>**Example in bold**</li>
-  <li>*Example in italics*</li>
+  <li>I made this in Subtext Editor</li>
 </ul>
