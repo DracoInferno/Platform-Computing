@@ -20,7 +20,7 @@ The following **bonus** features are implemented:
 - [X] Applies different font(s). (0.5 pt)
 - [X] Applies border and margins. (0.5 pt)
 - [X] Change the Background color and Header Color.
-- [X] Chnage the images sizes.
+- [X] Change the images sizes.
 
 ## Screenshot and/or Video Walkthrough
 
@@ -32,4 +32,10 @@ The following **bonus** features are implemented:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
 <ul>
   <li>I made this in Subtext Editor</li>
+  <li>I have added 6 images</li>
+  <li>Title Modified</li>
+  <li>Have 3 paragraph</li>
+  <li>Use Div, header, paragraphs</li>
+  <li>Has use 4 ways to format</li>
+  <li>Has link to Github</li>
 </ul>
