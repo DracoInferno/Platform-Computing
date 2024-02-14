@@ -24,9 +24,9 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="About me1.png" title="tileHead_Header_Par1&2_Img1,2&3_diffFont" alt="About1">
+<img src="About me1.png" title="tileHead_Header_Par1&2_Img1,2&3_diffFont" alt="tileHead_Header_Par1&2_Img1,2&3_diffFont">
 
-<img src="About me2.png" title="Par3&4_Img3,4,5&6_linktoRepo" alt="About2">
+<img src="About me2.png" title="Par3&4_Img3,4,5&6_linktoRepo" alt="Par3&4_Img3,4,5&6_linktoRepo">
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
