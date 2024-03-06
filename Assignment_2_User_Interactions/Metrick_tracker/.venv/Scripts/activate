@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\DracoInferno\Desktop\CSE 4500\Demo\Platform-Computing\.venv"
+VIRTUAL_ENV="C:\Users\DracoInferno\Desktop\CSE 4500\Demo\Platform-Computing\Assignment_2_User_Interactions\Metrick_tracker\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
