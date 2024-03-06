@@ -24,7 +24,8 @@ The following **bonus** features are implemented:
 
 <img src="images/About_Me_on_React.png" title='About_React' width='' alt='About_React' />
 
-<img scr= "images/selenium_tutorial_output.png" title='selenium_tutorial' width='' alt='selenium_tutorial' />
+<img src="images/selenium_tutorial_output.png" title='selenium_tutorial' width='' alt='selenium_tutorial' />
+
 
 
 ## Notes:
