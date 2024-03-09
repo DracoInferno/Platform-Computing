@@ -2,7 +2,7 @@
 
 PROVIDE OVERVIEW OF ASSIGNMENT HERE
 
-Time spent: **5** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Features
 
@@ -26,7 +26,9 @@ The following **bonus** features are implemented:
 
 <img src="images/selenium_tutorial_output.png" title='selenium' width='' alt='selenium' />
 
+<img src="images/metric_tracker_output.png" title='tracker' width='' alt='tracker' />
 
+<img src="images/selenium_install.png" title='install' width='' alt='install' />
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text

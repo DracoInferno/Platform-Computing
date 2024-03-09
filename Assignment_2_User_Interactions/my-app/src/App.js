@@ -48,9 +48,10 @@ function App() {
             One things I dont like is sports like my brother does. I am not a big fan of sports like scoccer, or football for example. But my family does and I see why people like playing the sport and/or watching the games. But tt does not apeal to me like to other people. If my family and friends invite me to watch the games then I will watch with them but I preffer to watch something else. Same thing with video game I dont like sports games for the same reason. So this is the end of the About Me thank you for reading and have a great day.
         </p>
         <br></br>
-        <p>
+        
         <a href="https://github.com/DracoInferno/Platform-Computing">Get Repo</a>
-        </p>
+        
+        <button>Tracker</button>
 
         </div>
 
