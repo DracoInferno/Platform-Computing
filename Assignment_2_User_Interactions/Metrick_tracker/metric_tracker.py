@@ -29,10 +29,15 @@ while True:
 
     #Track clicks
     button = driver.find_element(By.TAG_NAME, "button")
-    #num_clicks = 0
     button.click()
     num_clicks += 1
     print(f"Number of clicks: {num_clicks}")
+
+    # Monitor paragraph contents
+    paragraphs = driver.find_elements(By.TAG_NAME, "p")
+    for paragraph in paragraphs:
+        paragraph_text = paragraph.text
+        print(f"Paragraph: {paragraph_text}")
 
     time.sleep(2) 
 
