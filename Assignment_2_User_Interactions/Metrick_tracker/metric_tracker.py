@@ -9,11 +9,11 @@ driver = webdriver.Chrome()
 driver.get("http://localhost:3000/")
 
 metrics = []
-# Track presence time 
 start_time = time.time()
 presence_time = start_time
 num_clicks = 0
 while True:
+    # Track presence time 
     current_time = time.time()
     presence_time = current_time - start_time
     print(f"Presence time: {presence_time} seconds")
@@ -40,8 +40,6 @@ while True:
         print(f"Paragraph: {paragraph_text}")
 
     time.sleep(2) 
-
-
 
     #driver.quit()
     
