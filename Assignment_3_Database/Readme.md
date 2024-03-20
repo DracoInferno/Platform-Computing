@@ -22,11 +22,11 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="images/SQL (Tutorial).png" title='SQL' width='' alt='SQL' />
+<img src="images/SQL_Tutorial.png" title='SQL' width='' alt='SQL' />
 
-<img src="images/NoSQL (Tutorial).png" title='NoSQL' width='' alt='NoSQL' />
+<img src="images/NoSQL_Tutorial.png" title='NoSQL' width='' alt='NoSQL' />
 
-<img src="images/Set_up_database .png" title='database' width='' alt='database' />
+<img src="images/Set_up_database.png" title='database' width='' alt='database' />
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
