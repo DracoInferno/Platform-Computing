@@ -17,13 +17,15 @@ def main():
     # Navigate to your website 
     driver.get("http://localhost:3000/")
 
-    metrics = []
+    # metrics = []
     SAMPLE_SIZE = 2
     count = 0
     start_time = time.time()
     presence_time = start_time
     num_clicks = 0
     while count < SAMPLE_SIZE:
+        metrics = []
+
         # Track presence time 
         current_time = time.time()
         presence_time = current_time - start_time
