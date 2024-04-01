@@ -28,7 +28,11 @@ def userAction(action, driver, reward_time, req_list)->float:
         num_images = countTagElem(driver, req_list)
         total_reward_time = reward_time*num_images
         time.sleep(total_reward_time)
-    
+    elif action.upper() == "LINK":
+        num_link = countTagElem(driver, "a")
+        total_reward_time = reward_time*num_link
+        time.sleep(total_reward_time)
+
     return total_reward_time
 
 def clickLink(driver,href):
@@ -46,6 +50,7 @@ def main():
     total_reward_time = userAction("KEYWORD", driver, reward_time, ["game", "anime"])
     tag_name = ["img"]
     total_reward_time += userAction("IMAGE", driver, reward_time, tag_name)
+    total_reward_time += userAction("LINK", driver, reward_time, [])
     #clickLink(driver)
     driver.quit()
 
