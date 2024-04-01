@@ -35,11 +35,11 @@ def userAction(action, driver, reward_time, req_list)->float:
 
     return total_reward_time
 
-def clickLink(driver,href):
-     links = driver.find_elements(By.TAG_NAME, "a")
+# def clickLink(driver,href):
+#      links = driver.find_elements(By.TAG_NAME, "a")
 
-     for link in links:
-         link.click() 
+#      for link in links:
+#          link.click() 
 
 def main():
     # Initialize browser
