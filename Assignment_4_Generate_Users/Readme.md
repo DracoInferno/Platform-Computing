@@ -22,19 +22,19 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="images/keyword_with.png" title='keyword1' width='' alt='keyword1' />
+<img src="Images/keyword_with.png" title='keyword1' width='' alt='keyword1' />
 
-<img src="images/keyword_without.png" title='keyword2' width='' alt='keyword2' />
+<img src="Images/keyword_without.png" title='keyword2' width='' alt='keyword2' />
 
-<img src="images/images_with.png" title='images1' width='' alt='images1' />
+<img src="Images/images_with.png" title='images1' width='' alt='images1' />
 
-<img src="images/images_without.png" title='images2' width='' alt='images2' />
+<img src="Images/images_without.png" title='images2' width='' alt='images2' />
 
-<img src="images/link_with.png" title='link1' width='' alt='link1' />
+<img src="Images/link_with.png" title='link1' width='' alt='link1' />
 
-<img src="images/link_without.png" title='link2' width='' alt='link2' />
+<img src="Images/link_without.png" title='link2' width='' alt='link2' />
 
-<img src="images/Unique_User.png" title='User' width='' alt='User' />
+<img src="Images/Unique_User.png" title='User' width='' alt='User' />
 
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
