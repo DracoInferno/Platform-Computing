@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="Images/keyword_with.png" title='keyword1' width='' alt='keyword1' />
+<img src="images/keyword_with.png" title='keyword1' width='' alt='keyword1' />
 
 <img src="images/keyword_without.png" title='keyword2' width='' alt='keyword2' />
 
