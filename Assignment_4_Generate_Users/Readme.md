@@ -39,6 +39,8 @@ The following **bonus** features are implemented:
 ## Notes:
 PROVIDE RELEVANT OR ADDITIONAL INFORMATION HERE. Below are formatting options to add emphasis in text
 <ul>
-  <li>**Example in bold**</li>
-  <li>*Example in italics*</li>
+  <li>For keyword_user I made steven a keyword and it counted 10 sec and when I remove they keyword it became 0 sec</li>
+  <li>For image_user I have 6 images and it counted 60 sec and when I remove or commented them out it became 0 sec</li>
+  <li>For link_user I had a link that made it 90 becuase it has the function of 2 keyword and 6 images with the 1 link and without it that total would be 80 sec </li>
+  <li>For Unique_user I had with the keywords, images, links, and button that total of 130 second</li>
 </ul>
