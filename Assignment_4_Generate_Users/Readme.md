@@ -16,7 +16,7 @@ The following **required** features are completed:
 - [X] Create a user with unique affinities and verify that it works (3 pts)
 The following **bonus** features are implemented:
 
-- [ ] Create a unique user with an affinity OUTSIDE of keywords, images, or links (1.5 pt)
+- [X] Create a unique user with an affinity OUTSIDE of keywords, images, or links (1.5 pt)
 - [ ] Uploaded files for a unique user BOTH in javascript and python (1.5 pt)
 - [ ] DESCRIBE ANY OTHER FEATURES HERE.
 
